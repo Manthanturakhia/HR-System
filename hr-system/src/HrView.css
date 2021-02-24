@@ -1,0 +1,9 @@
+.hrView__row > .MuiTextField-root {
+    margin-left: 10px;
+    padding-bottom: 25px;
+}
+
+
+.hrView__row >h3{
+    margin-bottom: 15px;    
+}
